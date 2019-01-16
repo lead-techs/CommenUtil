@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<systemConfig>
+    <config>
+        <name>IP</name>
+        <value>127.0.0.1</value>
+    </config>
+    <config>
+        <name>PORT</name>
+        <value>8090</value>  
+    </config> 
+</SystemConfig>

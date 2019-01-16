@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<systemConfig>
+    <config>
+        <name>OSS_ENDPOINT</name>
+        <value>http://oss.aliyuncs.com</value>
+    </config>
+    <config>
+        <name>OSS_ACCESS_ID</name>
+        <value>R9Hzm6APgovT81kR</value>  
+    </config>
+    <config>
+        <name>OSS_ACCESS_KEY</name>
+        <value>ha2Xx0XIZtS7qO55Fi25vp3itYgPlx</value>
+    </config>
+    <config>
+        <name>OSS_BUCKETNAME</name>
+        <value>frank-test</value>        
+    </config>    
+</SystemConfig>
+
+
