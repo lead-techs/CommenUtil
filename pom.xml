@@ -7,8 +7,8 @@
         <groupId>com.broaddata</groupId>
         <version>1.0.0</version>
     </parent>
-    <artifactId>Util</artifactId>
-    <name>Util</name>
+    <artifactId>CommenUtil</artifactId>
+    <name>CommenUtil</name>
     <build>
         <plugins>
             <plugin>
